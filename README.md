@@ -13,26 +13,10 @@ This project is about building a web application to show a weather forecast usin
 
 ## Screenshots
 
-![Website Screenshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977375942/ZvvdOsCvM.png)
+![y1](https://user-images.githubusercontent.com/99754518/172013476-73cc4b62-6519-48dc-b2a0-f2fcdbe4d910.png)
 
-![Screenshot from 2022-02-27 20-57-05.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645976977453/Syoyw5ZJX.png)
-
-
-
-![Screenshot from 2022-02-27 20-57-13.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977058939/RFwDg5uqJ.png)
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952211716/aSboxm1Phc.png)
+![wh2](https://user-images.githubusercontent.com/99754518/172013473-fc86d484-93f0-4a7f-bdcf-42da06f8da5b.png)
 
 
-
-![2022-02-27 (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645974613126/Qu0VM_qxC.png)
-
-
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952352339/FP-TI7Jbr.png)
-
-
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952436530/5Y4-JLPNF.png)
 
 
